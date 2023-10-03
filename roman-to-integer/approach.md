@@ -1,0 +1,3 @@
+- Convert Roman letter to corresponding number in an array.
+- Check if current number is less than next number in an array. If true, subtract current number from next number
+- Add all remaining numbers
